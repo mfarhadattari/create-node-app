@@ -1,0 +1,26 @@
+{
+  "name": "create-node-app",
+  "version": "1.0.0",
+  "description": "Initial template of Node JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Mohammad Farhad",
+    "email": "mfarhad.dev@gmail.com",
+    "url": "https://mfarhad-dev.vercel.app"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-prettier": "^5.0.1",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
+  }
+}
